@@ -75,13 +75,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/reyansh01/" target="_blank">
+  <a href="https://www.linkedin.com/in/reyansh01/" title="LinkedIn" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
-  <a href="r8.reyansh@gmail.com" target="_blank">
+  <a href="mailto:r8.reyansh@gmail.com" title="Email Me" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://medium.com/@reyansh17" target="_blank">
+  <a href="https://medium.com/@reyansh17" title="Medium" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="42" height="30" alt="medium logo"  />
   </a>
 </div>
